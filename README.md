@@ -4,7 +4,7 @@
 > Version 0.1.2 · MIT-licensed
 
 [![PyPI](https://img.shields.io/pypi/v/ragready?color=blue)](https://pypi.org/project/ragready/)
-[![Downloads](https://img.shields.io/pypi/dm/ragready.svg?label=Downloads&color=brightgreen)](https://pypi.org/project/ragready/#files)
+[![Downloads](https://pepy.tech/badge/ragready)](https://pepy.tech/project/ragready)
 
 ---
 
